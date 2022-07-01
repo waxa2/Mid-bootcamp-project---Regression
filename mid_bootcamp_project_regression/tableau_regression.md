@@ -1,4 +1,4 @@
-# Tableau - Regression
+# Tableau - Regression.
 
 In this part of the project you will work with the data set `regression_data.xls` and use Tableau to answer the questions below: 
 
